@@ -15,3 +15,9 @@ Ye ek **demo** project hai. Isme hum *Markdown* ke saare basic tricks try kar ra
 1. Repo banao
 2. README.md kholo
 3. Markdown likho aur commit karo
+
+## Links aur Image
+
+YouTube channel: [Tech Bro Z Coding](https://www.youtube.com/@techbrozdeveloper)
+
+![Banner](banner.png)
