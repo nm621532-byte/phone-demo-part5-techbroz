@@ -1,6 +1,8 @@
 # Mera Pehla README 📘
 
-Ye repo **GitHub Phone se — Part 5** ka demo hai. Yahan hum phone se README.md likhna seekh rahe hain.
+Ye repo **GitHub Phone se — Part 5** ka demo hai. 🎬 Video: https://www.youtube.com/watch?v=bHKs6muVQf4
+
+ Yahan hum phone se README.md likhna seekh rahe hain.
 
 ## Is project mein kya hai?
 
