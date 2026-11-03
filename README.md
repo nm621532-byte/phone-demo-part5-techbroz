@@ -21,3 +21,19 @@ Ye ek **demo** project hai. Isme hum *Markdown* ke saare basic tricks try kar ra
 YouTube channel: [Tech Bro Z Coding](https://www.youtube.com/@techbrozdeveloper)
 
 ![Banner](banner.png)
+
+## Code kaise dikhaye
+
+```html
+<h1>Hello Duniya</h1>
+<p>Mera pehla page</p>
+```
+
+## Table
+
+| Topic | Part | Status |
+|-------|------|--------|
+| Repo banana | Part 2 | ✅ |
+| Issues + PR | Part 3 | ✅ |
+| GitHub Pages | Part 4 | ✅ |
+| README | Part 5 | ✅ |
